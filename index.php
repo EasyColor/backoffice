@@ -6,7 +6,9 @@
  * Time: 13:17
  */
 
-require_once $_SERVER["DOCUMENT_ROOT"].'/i_easycolor.php';
+require_once "modules/dashboard.php";
+require_once "modules/route.php";
+
 ?>
 
 <!DOCTYPE html>
